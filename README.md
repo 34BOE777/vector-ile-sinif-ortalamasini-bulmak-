@@ -1,2 +1,2 @@
-# vector-ile-s-n-f-ortalamas-n-bulmak-
-2 boyutlu ector kullanılarak yapıldı
+# vector-ile-sinif-ortalamasin-bulmak-
+2 boyutlu vector kullanılarak yapıldı
